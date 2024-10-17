@@ -1,5 +1,4 @@
 import pygame
-import random
 from board import Board 
 from ball import Ball
 
